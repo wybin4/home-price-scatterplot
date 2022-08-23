@@ -6,3 +6,5 @@ this is the implementation of the task from the freecodecamp course - data visua
 the results are:
 
 <img src='https://github.com/ajdivotf/home-price-scatterplot/blob/main/files/first.PNG' width='600'/><img src='https://github.com/ajdivotf/home-price-scatterplot/blob/main/files/second.PNG' width='600'/>
+
+![](https://github.com/ajdivotf/home-price-scatterplot/blob/main/files/how.gif)
