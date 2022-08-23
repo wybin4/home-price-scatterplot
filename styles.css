@@ -1,0 +1,59 @@
+html {
+  font-family: "Roboto";
+  background-color: #fcf7f8;
+}
+#graph, #elems, p{
+  background-color: #fcf7f8;
+}
+#zoom{
+  margin-right: 20px;
+}
+#graph{
+  padding-left: 20px;
+}
+#elems{
+  display: flex;
+  justify-content: end;
+  padding-right: 530px;
+  padding-top: 20px;
+}
+#brush{
+  accent-color: #a31621;
+  opacity: 0.9;
+}
+input {
+  font-size: 12px;
+  font-family: "Roboto";
+}
+.btn-danger{
+  background-color: #a31621 !important;
+  opacity: 0.9;
+}
+.tooltip {
+  position: absolute;
+  font-size: 12px;
+  width: auto;
+  height: auto;
+  pointer-events: none;
+  background-color: white;
+  border: solid 1px #61a3a9;
+  padding: 5px;
+  border-radius: 3px;
+}
+.axis line,
+.axis path {
+  stroke: #a31621;
+}
+.axis text {
+  fill: #a31621;
+}
+.text{
+  font-size: 15px;
+}
+#price-text{
+  color: #a31621;
+  font-size: 15px;
+  padding-left: 440px; 
+  padding-bottom: 150px;
+  background-color: #fcf7f8;
+}
