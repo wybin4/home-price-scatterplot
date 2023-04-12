@@ -199,7 +199,7 @@ SVG
       .text("Численность населения")
       .attr("fill", "#a31621");
 $.getJSON(
-  "https://raw.githubusercontent.com/ajdivotf/home-price-scatterplot/main/files/data.json",
+  "https://raw.githubusercontent.com/wybin4/home-price-scatterplot/main/files/data.json",
   function (data) {
     //add circles
     scatter
